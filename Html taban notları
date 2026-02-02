@@ -1,4 +1,5 @@
 Notlar!!
+<!--<!DOCTYPE html> tagı HTML belgesinin tipini belirtir, mutlaka en üstte olmalı -->
 <!----> <!-- tagı açıklama için yazılır -->
 <!--html komutları önce html/head/body/html olarak yazılır-->
 <!--başlık yazmak için <title> tagı kullanılır-->
