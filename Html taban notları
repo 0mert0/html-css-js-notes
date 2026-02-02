@@ -6,6 +6,8 @@ Notlar!!
 <!--<h1> tagı başlık için kullanılır-->
 <!--<h2> tagı iletişim bilgileri metninin başlık olmasını büyük ve kalın gösterilmesini sağlar-->
 <!--yazıyı kalın yapmak için <b> veya <strong> tagı kullanılır-->
+<!--yazıyı eğik yapmak için <i> tagı veya <em> tagı kullanılır-->
+<!--yazının altını çizmek için <u> tagı kullanılır-->    
 <!--<br> tagı alt satıra geçmek için kullanılır-->
 <!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
 <!--<p> tagı paragraf yazmak için kullanılır-->
