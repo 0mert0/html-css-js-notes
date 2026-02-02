@@ -1,2 +1,30 @@
-# Html-Notes
-html_notes.html
+Notlar!!
+<!----> <!-- tagı açıklama için yazılır -->
+<!--html komutları önce html/head/body/html olarak yazılır-->
+<!--başlık yazmak için <title> tagı kullanılır-->
+<!--<h1> tagı başlık için kullanılır-->
+<!--<h2> tagı iletişim bilgileri metninin başlık olmasını büyük ve kalın gösterilmesini sağlar-->
+<!--yazıyı kalın yapmak için <b> veya <strong> tagı kullanılır-->
+<!--<br> tagı alt satıra geçmek için kullanılır-->
+<!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
+<!--<p> tagı paragraf yazmak için kullanılır-->
+<!-- <a> tagı link vermek için kullanılır -->
+<!--yazı kalınlaştırma için <b> veya <strong> tagı kullanılabilir-->
+<!-- <img> tagı resim eklemek için kullanılır -->
+<!-- <ul> sırasız liste, <ol> sıralı liste oluşturur -->
+<!-- <li> liste elemanıdır -->
+<!-- <div> blok elemanıdır, sayfayı bölmek için kullanılır -->
+<!-- <span> satır içi elemandır, küçük alanları düzenler -->
+<!--taglar body tagının içine yazılması gerek yoksa siteyi ziyaret eden kişi hiçbirini göremez-->
+<!--<meta charset="utf-8">  türkce karakterlerin görünmesini sağlar-->
+<!--<html lang=""> tagı html sayfasının başlatılıp hangi dilde olduğunu belirtir-->
+<!--<section> tagı aynı konuları kapsamak için kullanılır <article> tagına benzerdir-->
+<!--<article> tagı web içeriklerini kapsamak için kullanılır resim,video,ses,yorum,haber,forum gönderisi olabilir-->
+<!--<header> sayfanın üst kısmıdır; logo, site başlığı, menü gibi üst bilgileri olduğu alandır -->
+<!--<nav> tagı site içi veya site dışı gezinti (menü) linklerini gruplamak için kullanılır -->
+<!--<aside> tagı sayfaların sol ya da sağ kenarında bulunan ve ana konuyla ilgili menü tarzı içerikleri barındıran bölümdür-->
+<!--<footer> sayfanın en alt kısmı, telif hakkı, iletişim ve alt bilgiler burada olur -->
+<!--<figure> tagı fotoğraf,şekil,illüstrasyon gibi içerikleri ve bu içeriklerle ilgili başlık bilgisini bulundurmaya yarar-->
+
+
+ <!--eski tarayıcılar için HTML5Shiv dosyasını indirmek için https://code.google.com/p/html5shiv/ adresi kullanılabilir-->   
