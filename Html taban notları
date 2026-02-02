@@ -28,6 +28,6 @@ Notlar!!
 <!--<aside> tagı sayfaların sol ya da sağ kenarında bulunan ve ana konuyla ilgili menü tarzı içerikleri barındıran bölümdür-->
 <!--<footer> sayfanın en alt kısmı, telif hakkı, iletişim ve alt bilgiler burada olur -->
 <!--<figure> tagı fotoğraf,şekil,illüstrasyon gibi içerikleri ve bu içeriklerle ilgili başlık bilgisini bulundurmaya yarar-->
-
+<!--bir kişi,firma,kurum,oyun,kitap,gazete,filmin,nesnelerin adını vurgulamak veya referans vermek için <cite> tagı kullanılır-->
 
  <!--eski tarayıcılar için HTML5Shiv dosyasını indirmek için https://code.google.com/p/html5shiv/ adresi kullanılabilir-->   
