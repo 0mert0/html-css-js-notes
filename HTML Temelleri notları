@@ -17,6 +17,7 @@ Açıklama ve Metin Formatlama
 <!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
 <!-- <blockquote> tagı uzun alıntı metinleri göstermek için kullanılır -->
 <!--<mark> tagı ile vurgulamanılması gereken metinleri fosforlu kalemle çizmiş gibi çizebiliriz-->
+<!-- <abbr> tagı kısaltmaların ne anlama geldiğini belirtmek için kullanılır title özelliği ile birlikte kullanılır, üzerine gelince açıklama görünür -->
 
 
 Başlıklar
