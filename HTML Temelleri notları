@@ -19,6 +19,8 @@ Açıklama ve Metin Formatlama
 <!--<mark> tagı ile vurgulamanılması gereken metinleri fosforlu kalemle çizmiş gibi çizebiliriz-->
 <!-- <abbr> tagı kısaltmaların ne anlama geldiğini belirtmek için kullanılır title özelliği ile birlikte kullanılır, üzerine gelince açıklama görünür -->
 <!-- <dfn> tagı bir terimin ilk kez tanımının yapıldığını belirtmek için kullanılır -->
+<!-- <sub> tagı alt simge (aşağıda küçük yazı) göstermek için yazılır -->
+<!-- <sup> tagı üst simge (yukarıda küçük yazı) göstermek için yazılır -->
 
 
 
