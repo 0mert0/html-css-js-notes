@@ -25,6 +25,8 @@ Açıklama ve Metin Formatlama
 <!--<ins> tagı kelimenin altını çizer-->   
 <!--<code> tagı kod parçalarını metin içinde göstermek için kullanılır -->
 <!--<kbd> tagı kullanıcının klavyeden bastığı tuşları veya klavye kısayollarını göstermek için kullanılır -->
+<!--<pre> tagı boşlukları ve satır sonlarını koruyarak çok satırlı metin veya kod göstermek için kullanılır -->
+
 
 
 
